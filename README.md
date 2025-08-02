@@ -105,7 +105,7 @@ This project is open-source and available under the **MIT License**.
 ### 📧 Contact
 
 **Krushna Chandra Bindhani**
-📬 [krushnachandrabindhani32@gmail.com](mailto:krushnachandrabindhani32@gmail.com)
+📬 [krushnachandrabindhani32@gmail.com](mailto:krushnachandrabindhani32@gmail.com)<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/krushnachandrabindhani)
 
 ---
